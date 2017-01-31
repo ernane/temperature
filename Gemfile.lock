@@ -1,0 +1,18 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    minitest (5.10.1)
+    minitest-autotest (1.0.3)
+      minitest-server (~> 1.0)
+    minitest-server (1.0.4)
+      minitest (~> 5.0)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  minitest
+  minitest-autotest (~> 1.0, >= 1.0.3)
+
+BUNDLED WITH
+   1.13.7
